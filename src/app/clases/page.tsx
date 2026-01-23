@@ -24,7 +24,7 @@ export default function ClasesHub() {
   return (
     <div className="pt-40 pb-20 px-6">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-6xl font-bold mb-16 text-center tracking-tighter uppercase">
+        <h1 className="text-6xl max-md:text-[3rem] font-bold mb-16 text-center tracking-tighter uppercase">
           Elige tu <span className="text-primary italic">Plataforma</span>
         </h1>
         <div className="grid md:grid-cols-2 gap-10">
